@@ -1,0 +1,219 @@
+﻿File chứa mã nguồn java sau khi được biên dịch có đuôi là gì?
+A) .java
+B) .class
+C) .jav
+D) .exe
+Đáp án: B
+
+Java platform gồm mấy thành phần?
+A)  1
+B)  2
+C)  3
+D)  4
+Đáp án: B
+
+Java Virtual Machine là gì?
+A) Là một thành phần của Java platform dùng để đọc mã bytecode trong file .class
+B) Là chương trình biên dịch của java dùng để biên dịch file nguồn java thành mã bytecode.
+C) Là chương trình chạy cho java
+D) Tất cả các đáp án đều đúng
+Đáp án: A
+
+Java chạy trên hệ điều hành nào sau đây:
+A) Microsoft Windows
+B) Linux
+C) Sun Solaris OS
+D) Tất cả các đáp án đều đúng.
+Đáp án: D
+
+API là gì?
+A) Thư viện mã nguồn của Java.
+B) Là thư viện chứa các thành phần phần mềm tạo sẵn cung cấp các chức năng cho chương trình Java.
+C) Thư viện cung cấp giao diện đồ họa cho chương trình Java.
+D) Tất cả đều sai.
+Đáp án: B
+
+Ngôn ngữ lập trình Java cung cấp các chức năng nào sau đây?
+A) Tất cả đáp án đều đúng
+B) Giao diện lập trình ứng dụng
+C) Bộ công cụ giao diện người dùng
+D) Thư viện tích hợp
+Đáp án: A
+
+Có bao nhiêu cách viết chú thích trong Java?
+A) 1
+B) 2
+C) 3
+D) 4
+Đáp án: C
+
+Thứ tự các từ khóa public và static khi khai bao như thế nào?
+A) public đứng trước static
+B) static đứng trước public
+C) Thứ tự bất kỳ nhưng thông thường public đứng trước
+D) Tất cả đều sai.
+Đáp án: C
+
+Câu lệnh khai báo chuẩn cho cách main như thế nào?
+A) public static void main(String[] a) {}
+B) public static int main(String args) {}
+C) public static main(String[] args) {}
+D) public static final void main(String[] args) {}
+Đáp án: A
+
+Câu nào sau đây là sai?
+A) /** chú thích */
+B) /* chú thích */
+C) /* chú thích
+D) // chú thích
+Đáp án: C
+
+Khi biên dịch gặp lỗi Exception in thread main java.lang.NoClassDefFoundError: myprogram. Lỗi này có nghĩa gì?
+A) Đường dẫn chương trình sai.
+B) Không có hàm main
+C) Không khai báo class
+D) Không có từ khóa public tại mở đầu khai báo class
+Đáp án: A
+
+Đối tượng trong phần mềm là gì?
+A) Là một bó phần mềm gồm các hành vi và trạng thái có liên quan với nhau.
+B) Là vật thể xác định của thế giới thực.
+C) Là vật thể gồm hành vi và trạng thái.
+D) Là các đối tượng được biểu diễn trong phần mềm gồm có 2 thuộc tính trường dữ liệu và các cách xử lý dữ liệu.
+Đáp án: D
+
+Khai báo lớp nào dưới đây là đúng?
+A) public class default {}
+B) protected inner class engine {}
+C) final class outer {}
+D) Tất cả đều sai.
+Đáp án: C
+
+Cách đặt tên nào sau đây là sai?
+A) 2word
+B) *word
+C) main
+D) Tất cả đều sai.
+Đáp án: D
+
+Một chương trình gồm 2 class sẽ có bao nhiêu phương thức main?
+A) 1
+B) 2
+C) 3
+D) 4
+Đáp án: B
+
+Một lớp trong Java có thể có bao nhiêu lớp cha?
+A) 1
+B) 2
+C) 3
+D) 4
+Đáp án: A
+
+Một lớp trong Java có bao nhiêu lớp con?
+A) 2
+B) 3
+C) 4
+D) Vô số
+Đáp án: D
+
+Để khai báo lớp Xedap1 kế thừa lớp Xedap phải làm như thế nào?
+A) class Xedap1 extend Xedap {}
+B) public classs Xedap1 extend Xedap {}
+C) class Xedap1 extends Xedap {}
+D) Tất cả đều sai.
+Đáp án: C
+
+Chọn câu trả lời đúng nhất. Interface là gì?
+A) Là lớp chứa các cách rỗng có liên quan với nhau.
+B) Là một kiểu tham chiếu, tương tự như class, chỉ có thể chứa hằng giá trị, khai báo cách và kiểu lồng.
+C) Là một cách thực hiện của lớp khác.
+D) Là lớp nối giữa lớp cơ sở và lớp cha.
+Đáp án: B
+
+Để sử dụng giao diện Xedap cho lớp Xedap1, ta làm thế nào?
+A) class Xedap1 implement Xedap {}
+B) public class Xedap1 implement Xedap {}
+C) class Xedap1 implements Xedap {}
+D) public class Xedap1 extends Xedap {}
+Đáp án: C
+
+Có bao nhiêu loại biến trong Java?
+A) 1
+B) 2
+C) 3
+D) 4
+Đáp án: D
+
+Trường dữ liệu là các biến dạng nào sau đây?
+A) Biến thay mặt và Tham số
+B) Biến thay mặt và biến lớp
+C) Biến thay mặt và biến cục bộ
+D) Biến lớp và Tham số
+Đáp án: B
+
+Biến dữ liệu là các biến dạng nào sau đây?
+A) Biến lớp và Tham số
+B) Biến cục bộ và Tham số
+C) Biến cục bộ và biến lớp
+D) Các đáp án đều sai.
+Đáp án: b
+
+Biến f nào sau đây là biến đại diện?
+A) float f;
+B) public static f;
+C) double CA(int f)
+D) Không có giá trị đúng
+Đáp án: A
+
+Khai báo nào sau đây là khai báo biến lớp?
+A) final double d;
+B) private static id;
+C) volatile int sleepTime
+D) Không có đáp án đúng
+Đáp án: B
+
+Cách đặt tên nào sau đây là không chính xác?
+A) final
+B) dem
+C) _final
+D) $final
+Đáp án: A
+
+Có bao nhiêu kiểu dữ liệu cơ sở trong Java?
+A) 7
+B) 8
+C) 9
+D) 5
+Đáp án: B
+
+Có bao nhiêu kiểu số nguyên trong Java?
+A) 1
+B) 2
+C) 3
+D) Tất cả đều sai.
+Đáp án: D
+
+Có bao nhiêu kiểu dữ liệu ký tự cơ sở trong Java?
+A) 1
+B) 2
+C) 3
+D) Tất cả đều sai.
+Đáp án: A
+
+Khái niệm cách start()?
+A) Mọi cách thực hiện tác vụ sau khi khởi tạo phải chèn lên cách start. start() bắt đầu việc thực thi của applet.
+B) Là cách bắt đầu của applet và chạy song song với applet.
+C) Cách khởi tạo của applet và chạy song song với applet.
+D) Tất cả đều sai.
+Đáp án: A
+
+Khối lệnh sau có kết quả bao nhiêu?
+String greeting = “Hello”;
+int k = greeting.length();
+System.out.print (k);
+A) 4
+B) 5
+C) 6
+D) 7
+Đáp án: B
